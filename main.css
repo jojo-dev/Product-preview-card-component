@@ -119,12 +119,12 @@ span.oldPrice {
 }
 @media screen and (min-width: 1200px) {
   .card {
-    width: 40vw;
+    width: 60vw;
     max-width: 800px;
     height: auto;
     margin: 0 auto;
     flex-direction: row;
-    padding-top: 15em;
+    padding-top: 8em;
     padding-bottom: 8em;
   }
   .imagePart,
