@@ -21,6 +21,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - See hover and focus states for interactive elements
 
   ### Screenshot
+  ![desktop](https://user-images.githubusercontent.com/54934370/178611503-8b84fc2f-f292-4b77-b418-02cb80f96896.jpg)
+
   ./images/desktop.png
   
   ./images/desktop-active.png
